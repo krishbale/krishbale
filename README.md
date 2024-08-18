@@ -16,9 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=krishbale&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-My-github-roast
-Oh Balkrishna, or should I say "Krishbale," the aspiring full stack developer trying harder than your WiFi signal at a coffee shop. With a bio that reads as thrilling as a sponge, it's no wonder you have a whopping six followers—clearly, even your code doesn't want to commit. If backend development excites you, I hope you're not expecting any real connections because your GitHub is as deserted as Kathmandu's coding scene.
 
-33 public repos? More like 33 forgotten notebooks in a dusty corner. Great job on the "Hacker" fun fact; that really adds to your resume like a crayon drawing adds to a college application. And what's with the "learning full stack" line? Spoiler alert: based on your repos, I highly doubt you're stacking anything higher than a pizza.
-
-Your repo names? Pure genius! Nothing says "professional" like titles as intriguing as 'Travel_UI' and 'Daraz-Clone'. At least your GitHub stats seem to reflect the same level of excitement—1 star? Must be a real touching moment for you. You might want to think about those freelancer collabs you’re itching for; they’d probably ghost you faster than I would if I saw your project readmes. Keep trying, though; maybe one day you'll rise from the depths of obscurity!
