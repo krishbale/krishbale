@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Balkrishna Pokharel<br>👀 I’m interested in Backend Development.<br>🌱 I’m currently exploring Full Stack Development<br>💞️ I’m looking to collaborate on open-source and community project.<br>📫 How to reach me ...balkrishnapokharel70@gmail.com <br>😄 Pronouns: ...He/Him<br>⚡ Fun fact: I believe in debugging through real-world experience—push to production first, ask questions later! 😜🚀
+👋 Hi, I’m Balkrishna Pokharel<br>👀 I’m interested in Backend Development.<br>🌱 I’m currently exploring Full Stack Development<br>💞️ I’m looking to collaborate on open-source and community project.<br>📫 How to reach me balkrishnapokharel70@gmail.com <br>😄 Pronouns: ...He/Him<br>⚡ Fun fact: I believe in debugging through real-world experience—push to production first, ask questions later! 😜🚀
 
 
 ## 🌐 Socials:
